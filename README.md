@@ -37,3 +37,12 @@ All of these libraries support reading and writing values to the GPIO pins.
 > SitePoint tutorial showing how to use **[PiPHP: GPIO](https://github.com/PiPHP/GPIO)** to blink an LED a few times after detecting a push button interrupt.
 
 - **[Install PHP7 on a Raspberry Pi](https://www.stewright.me/2016/03/turn-raspberry-pi-3-php-7-powered-web-server/)**
+
+- **[Basic Internet Of Things Tutorial Using Raspberry Pi And Laravel Cloud](https://www.cloudways.com/blog/internet-of-things-tutorial-using-raspberry-pi-laravel/)**
+- **[Setting Up An Apache Server With Raspberry Pi](https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md)**
+- **[Setup a Raspberry Pi PHP Web Server](http://www.instructables.com/id/Setup-a-Raspberry-Pi-PHP-web-server/)**
+- **[Simple and Intuitive Web Interface for Your Raspberry Pi](http://www.instructables.com/id/Simple-and-intuitive-web-interface-for-your-Raspbe/)**
+- **[Turn your Raspberry Pi 3 into a PHP 7 powered web server](https://www.stewright.me/2016/03/turn-raspberry-pi-3-php-7-powered-web-server/)**
+- **[Get MySql and PHP to Work Together in Raspberry Pi](http://www.php5dp.com/get-mysql-and-php-to-work-together-in-raspberry-pi/)**
+- **[Raspberry Pi Dev Setup with Nginx + PHP7](https://getgrav.org/blog/raspberrypi-nginx-php7-dev)**
+
